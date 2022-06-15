@@ -39,6 +39,7 @@ def discoverFiles(startpath):
         'ps', 'bat', 'vb', # windows based scripts
         'awk', 'sh', 'cgi', 'pl', 'ada', 'swift', # linux/mac based scripts
         'go', 'py', 'pyc', 'bf', 'coffee', # other source code files
+        'wt', # mongodb storage files
 
         'zip', 'tar', 'tgz', 'bz2', '7z', 'rar', 'bak',  # compressed formats
     ]
